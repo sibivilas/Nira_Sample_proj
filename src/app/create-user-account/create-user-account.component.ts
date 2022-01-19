@@ -73,7 +73,7 @@ export class CreateUserAccountComponent implements OnInit {
         this.router.navigate(['../']);
 
       ////  var _datas = JSON.stringify(data.results.datas);
-      //  sessionStorage.setItem("details_main",this.encrypt(_datas));
+      ////  sessionStorage.setItem("details_main",this.encrypt(_datas));
       //  this.router.navigate(['admin-Home/']);
 
       }
